@@ -2,7 +2,7 @@
 
 This repository contains the scripts used in our paper, "Through the Spyglass: Towards IoT Companion App Man-in-the-Middle Attacks" 
 
-Please cite using [bib],(paper/cset2021oconnor.bib)[pdf](paper/cset2021oconnor.pdf)
+Please cite using [bib](paper/cset2021oconnor.bib),[pdf](paper/cset2021oconnor.pdf)
 
 ## Installation
 
