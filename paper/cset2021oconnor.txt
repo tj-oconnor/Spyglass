@@ -1,0 +1,9 @@
+@inproceedings{cset2021oconnor,
+	address = {Virtual Event},
+	author = {TJ OConnor and Dylan Jesse and Daniel Camps},
+	booktitle = {Cyber Security Experimentation and Test (CSET)},
+	month = {August},
+	publisher = {USENIX},
+	title = {Through the Spyglass: Toward IoT Companion App Man-in-the-Middle Attacks},
+	year = {2021}}
+
